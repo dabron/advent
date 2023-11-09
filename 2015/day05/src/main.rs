@@ -95,6 +95,11 @@ fn main() {
     print_moral_status("haegwjzuvuyypxyu");
     print_moral_status("dvszwmarrgswjxmb");
 
+    print_moral_status("qjhvhtzxzqqjkmpb");
+    print_moral_status("xxyxx");
+    print_moral_status("uurcxstgmygtbstg");
+    print_moral_status("ieodomkazucvgmuy");
+
     let stdin = io::stdin();
     let mut lines = stdin.lock().lines();
     let mut nice_count = 0u32;
